@@ -14,7 +14,7 @@ import {
   Toggle
 } from '@carbon/react';
 import { SiteHeader, ShowcaseIntro, projectData } from './shared.jsx';
-import '@carbon/react/css/styles.css';
+import './carbon.scss';
 import './styles.css';
 
 function CarbonPage() {
