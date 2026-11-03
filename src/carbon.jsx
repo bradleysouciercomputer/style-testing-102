@@ -14,8 +14,8 @@ import {
   Toggle
 } from '@carbon/react';
 import { SiteHeader, ShowcaseIntro, projectData } from './shared.jsx';
-import './styles.css';
 import '@carbon/react/css/styles.css';
+import './styles.css';
 
 function CarbonPage() {
   const [query, setQuery] = useState('');
